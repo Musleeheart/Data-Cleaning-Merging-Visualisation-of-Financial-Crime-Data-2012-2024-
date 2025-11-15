@@ -12,7 +12,7 @@
 ## Project Description
 ### This project focuses on cleaning, merging, and analyzing over a decade of financial crime data to uncover actionable insights. The goal is to support data-driven decision-making that could help reduce crime rates through targeted policy interventions.
 
-<img width="431" height="368" alt="dashboard" src="https://github.com/user-attachments/assets/608db5be-b0e5-4141-9fe8-d6f54745a884" />
+[dashboard.png](https://drive.google.com/file/d/1QgWRN3nWyRXBcVqK-7wvxaV86P-73n4d/view?usp=drive_link)
 
 
 ## Aim 
